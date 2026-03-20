@@ -28,6 +28,5 @@ int main()
                 default:
                         cout << "Wrong menu item\n";
                         break;
-
         }
 }
